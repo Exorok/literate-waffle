@@ -1,8 +1,3 @@
-The most likely reason the installation is failing is that **my previous response was cut off** (truncated) at the end. If you copied and pasted the JSON from that message, the file is incomplete and contains a syntax error, which will cause Revenge to reject the import.
-
-Here is the **complete, full version** of the JSON. Please replace the contents of your GitHub file with this entire block:
-
-```json
 {
     "name": "ClearVision v1.2.6 - Amoled Blue",
     "description": "Clear Vision with #004098 accents and Amoled Black backgrounds.",
