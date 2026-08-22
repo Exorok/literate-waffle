@@ -329,4 +329,64 @@
             "#0E0E0F"
         ]
     },
-    "rawColors": {
+    "rawColors": {        "BG_GRADIENT_CRIMSON_MOON_2": "#09090A",
+        "PRIMARY_100": "#4A8BCE",
+        "PRIMARY_130": "#dbeafa",
+        "PRIMARY_200": "#4A8BCE",
+        "PRIMARY_230": "#4A8BCE",
+        "PRIMARY_300": "#004098",
+        "PRIMARY_360": "#004098",
+        "PRIMARY_400": "#002B6B",
+        "PRIMARY_460": "#002B6B",
+        "PRIMARY_500": "#004098",
+        "PRIMARY_560": "#002B6B",
+        "PRIMARY_600": "#002B6B",
+        "PRIMARY_630": "#09090A",
+        "PRIMARY_660": "#09090A",
+        "PRIMARY_700": "#0f0f10",
+        "PRIMARY_800": "#0E0E0F",
+        "PRIMARY_900": "#002B6B",
+        "BLACK_500": "#09090A",
+        "BLACK_530": "#09090A",
+        "BLACK_560": "#09090A",
+        "BLACK_600": "#0f0f10",
+        "BLACK_630": "#0f0f10",
+        "BLACK_660": "#0f0f10",
+        "BLACK_700": "#0E0E0F",
+        "BLACK_730": "#0E0E0F",
+        "BLACK_760": "#0E0E0F",
+        "BLACK_800": "#0E0E0F",
+        "BLACK_830": "#0E0E0F",
+        "BLACK_860": "#0E0E0F",
+        "BLACK_900": "#0E0E0F",
+        "BRAND_230": "#ff0000",
+        "BRAND_260": "#4A8BCE",
+        "BRAND_360": "#004098",
+        "BRAND_500": "#004098",
+        "BRAND_560": "#002B6B",
+        "RED_400": "#004098",
+        "RED_430": "#004098",
+        "RED_460": "#004098",
+        "GREEN_360": "#689d6a",
+        "WHITE_500": "#dcddde",
+        "YELLOW_300": "#004098"
+    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142038067209850980/0CI9G4RK.jpg"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#002B6B",
+            "ic_mic_muted_neutral": "#002B6B",
+            "ic_soundboard":"#002B6B",
+            "ic_soundboard_muted": "#002B6B",
+            "ic_video": "#002B6B",
+            "ic_video_disabled": "#002B6B"
+        },
+        "iconpack":"rosiecord-plumpy"
+    },
+    "spec": 2
+}
+
