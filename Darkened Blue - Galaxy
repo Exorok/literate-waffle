@@ -1,0 +1,195 @@
+{
+    "name": "Darkened Blue",
+    "description": "A dark theme with blue accents.",
+    "authors": [
+        {
+            "name": "Exorok"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#0E0E0F00"
+        ],
+        "ANDROID_RIPPLE": [
+            "#B3000F23"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#004098"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#8c8c8c12"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#09090A00"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0f0f1000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#00409815"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#04040500"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#09090A00"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#09090A00"
+        ],
+        "BG_BRAND": [
+            "#00409895"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#0E0E0F1A"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#0B0B0C1A"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#0E0E0F1A"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#0E0E0F1A"
+        ],
+        "CHANNEL_ICON": [
+            "#00409866"
+        ],
+        "EMBED_BACKGROUND": [
+            "#1110111A"
+        ],
+        "EMBED_BACKGROUND_ALTERNATE": [
+            "#1110111A"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#004098"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#262627"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#004098"
+        ],
+        "PANEL_BG": [
+            "#0C0C0D1A"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#004098"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#004098"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#004098"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+            "#004098"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#dbdee1"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#004098"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#004098"
+        ],
+        "TEXT_NORMAL": [
+            "#dbdee1"
+        ],
+        "TEXT_PRIMARY": [
+            "#dbdee1"
+        ],
+        "TEXT_SECONDARY": [
+            "#b5bac1"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#004098"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#004098"
+        ],
+        "PREMIUM_NITRO_PINK_TEXT": [
+            "#004098"
+        ],
+        "TEXT_MUTED": [
+            "#818491"
+        ],
+        "TEXT_LINK": [
+            "#004098"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#0E0E0F1A"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#0E0E0F1A"
+        ],
+        "INPUT_BACKGROUND": [
+            "#0E0E0F1A"
+        ],
+        "TEXT_DANGER": [
+            "#004098"
+        ],
+        "BUTTON_OUTLINE_DANGER_BORDER": [
+            "#004098"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#0040981a"
+        ],
+        "INFO_DANGER_FOREGROUND": [
+            "#004098"
+        ],
+        "STATUS_DANGER": [
+            "#004098"
+        ],
+        "STATUS_DND": [
+            "#004098"
+        ],
+        "BACKGROUND_MESSAGE_AUTOMOD": [
+            "#0040980d"
+        ],
+        "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [
+            "#0040981a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#00409814"
+        ]
+    },
+    "rawColors": {
+        "BLUE_345": "#004098",
+        "GREEN_430": "#004098",
+        "RED_430": "#004098",
+        "RED_460": "#004098",
+        "GREEN_460": "#004098",
+        "BRAND_260": "#004098",
+        "BRAND_360": "#004098",
+        "RED_400": "#004098",
+        "BRAND_500": "#004098",
+        "BRAND_560": "#004098",
+        "PLUM_13": "#004098",
+        "PLUM_14": "#1D1D21",
+        "PLUM_15": "#004098",
+        "PLUM_16": "#1D1D21",
+        "PLUM_17": "#0E0E0F00",
+        "PLUM_18": "#11101100",
+        "PLUM_19": "#004098",
+        "PLUM_20": "#09090A00",
+        "PLUM_22": "#0E0E0F00",
+        "PLUM_24": "#19191900",
+        "PRIMARY_500": "#1E1D1E00",
+        "PRIMARY_600": "#0b080d00",
+        "PRIMARY_660": "#14131400",
+        "PRIMARY_700": "#0f0f1000",
+        "PRIMARY_800": "#0C0B0C00"
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://i.imgur.com/Lem9ALJ.jpeg",
+        "blur": 0,
+        "alpha": 1.0
+    },
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#004098"
+    }
+}
