@@ -1,0 +1,218 @@
+{
+    "name": "ClearVision v1.2.6 (mod)",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+	"authors": [
+      {
+         "name": "Taki_Shiwa",
+         "id": "466968658997149706"
+      }
+    ],
+    "semanticColors": {
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#fb4934",
+            "#9d0006",
+            "#fb4934"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#004098",
+            "#004098",
+            "#004098"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#004098",
+            "#004098",
+            "#004098"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#004098",
+            "#004098",
+            "#004098"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#004098",
+            "#004098",
+            "#004098"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#0040987a",
+            "#0040987a",
+            "#0040987a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#00409826",
+            "#00409826",
+            "#00409826"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#00409826",
+            "#00409826",
+            "#00409826"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#00409899",
+            "#00409899",
+            "#00409899"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#004098",
+            "#004098",
+            "#004098"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#004098",
+            "#004098",
+            "#004098"
+        ],
+        "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],			
+        "CHANNELS_DEFAULT": [
+            "#000000",
+            "#000000",
+            "#000000"			
+        ],
+        "CHANNEL_ICON": [
+            "#0040984d",
+            "#0040984d",
+            "#0040984d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#00000099",
+            "#00000099",
+            "#00000099"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
+            "#004098",
+            "#004098",
+            "#004098"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_CARD_BG": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_CARD_EDITABLE_BG": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_STORE_BG": [
+            "#000000",
+            "#004098",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_BG": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_PREFIX": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "ELEVATION_HIGH": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "ELEVATION_LOW": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "ELEVATION_MEDIUM": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "ELEVATION_STROKE": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "FOCUS_PRIMARY": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "GUILD_HEADER_TEXT_SHADOW": [
+            "#004098",
+            "#000000",
+            "#000000"
+        ],
+        "HEADER_PRIMARY": [
+            "#000000",
+            "#004098",
+            "#000000"
+        ],
+        "HEADER_SECONDARY": [
+            "#004098",
+            "#004098",
+            "#004098"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#004098",
+            "#00
