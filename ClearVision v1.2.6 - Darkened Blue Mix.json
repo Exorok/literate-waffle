@@ -330,7 +330,7 @@
         ]
     },
     "rawColors": {
-		"BG_GRADIENT_CRIMSON_MOON_2": "#09090A",
+        "BG_GRADIENT_CRIMSON_MOON_2": "#09090A",
         "PRIMARY_100": "#4A8BCE",
         "PRIMARY_130": "#dbeafa",
         "PRIMARY_200": "#4A8BCE",
